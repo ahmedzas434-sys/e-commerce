@@ -1,7 +1,7 @@
-import React from 'react'
+import SignUpScreen from '@/features/auth/signup/screens/SignUpScreen'
 
 export default function SignUpPage() {
   return (
-    <div>SignUpPage</div>
+    <SignUpScreen/>
   )
 }

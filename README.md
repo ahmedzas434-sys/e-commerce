@@ -1,32 +1,35 @@
 # FreshCard
 
 ## Dependencies
-- [X] Styles                        => TailwindCss
-- [X] Icons                         => Tabler Icons
-- [X] Client State Management       => Redux Toolkit
-- [X] Server State Management       => TanStack Query and DevTools
-- [X] Working With Api              => Axios
-- [X] Working With Forms            => React-Hook-Form
-- [X] Validation                    => zod
-- [X] Toast                         => sonner
-- [X] Sort Classes for Tailwind     => Prettier
+- [✔] Styles                        => TailwindCss                     ✅
+- [✔] Icons                         => Tabler Icons                    ✅
+- [✔] Client State Management       => Redux Toolkit                   ✅
+- [✔] Server State Management       => TanStack Query and DevTools     ✅
+- [✔] Working With Api              => Axios                           ✅
+- [✔] Working With Forms            => React-Hook-Form                 ✅
+- [✔] Validation                    => zod                             ✅
+- [✔] Toast                         => sonner                          ✅
+- [✔] Sort Classes for Tailwind     => Prettier                        ✅
+- [✔] React Hook Form Resolver      => Resolver                        ✅
 
 ## Routing (Pages)
-- [X] Sign Up Page
-- [X] Login Page
-- [X] Forgot Password Page
-- [X] Rest Password Page 
-- [X] Home Page
-- [X] Product Details Page
-- [X] Card Page
-- [X] Wishlist Page
-- [X] My Orders Page
-- [X] Categories Page
-- [X] Brands Page
-- [X] Search Page
-- [X] Shop Page
-- [X] Terms Page
-- [X] Contact Page
-- [X] Privacy Policy Page
-- [X] Not-Found Page
-- [X] Profile Page ==> (my-addresses , settings)
+- [✔] Sign Up Page           
+- [✔] Login Page
+- [✔] Forgot Password Page
+- [✔] Rest Password Page 
+- [✔] Home Page
+- [✔] Product Details Page
+- [✔] Card Page
+- [✔] Wishlist Page
+- [✔] My Orders Page
+- [✔] Categories Page
+- [✔] Brands Page
+- [✔] Search Page
+- [✔] Shop Page
+- [✔] Terms Page
+- [✔] Contact Page
+- [✔] Privacy Policy Page
+- [✔] Not-Found Page
+- [✔] Profile Page ==> (my-addresses , settings)
+
+## Page Done 
